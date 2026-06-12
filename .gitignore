@@ -1,1 +1,18 @@
+# Config files with passwords
+config/database.php
 
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+error_log
+
+# Temp files
+tmp/
+temp/
